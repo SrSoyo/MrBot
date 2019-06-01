@@ -1,0 +1,18 @@
+{
+  "name": "mrbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "fs": "0.0.1-security",
+    "module.js": "^2.2.4",
+    "ms": "^2.1.1"
+  }
+}
